@@ -76,7 +76,7 @@ SmartLibrary/
 | Auto    | Kitap ID    | Öğrenci ID     | Alınan Tarih | İade Tarihi (Null olabilir) |
 
 ---
-## 📥 Kurulum (Kısa Özet)
+## 📥 Kurulum
 
 1. **Projeyi indir / klonla**:
 
