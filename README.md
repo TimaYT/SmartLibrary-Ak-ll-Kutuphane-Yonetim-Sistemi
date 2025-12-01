@@ -81,7 +81,7 @@ SmartLibrary/
 1. **Projeyi indir / klonla**:
 
 ```bash
-git clone https://github.com/TimaYT/SmartLibrary.git
+git clone https://github.com/TimaYT/SmartLibrary-Ak-ll-Kutuphane-Yonetim-Sistemi.git
 ```
 
 2. **JDBC driver'ı ekle** (lib klasöründen)
